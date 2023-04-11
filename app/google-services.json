@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377602711595",
+    "project_id": "jinstargram-29ecb",
+    "storage_bucket": "jinstargram-29ecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377602711595:android:8b7eeef2af7b653636ca6e",
+        "android_client_info": {
+          "package_name": "com.soojin.jinstargram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377602711595-3ej9hs2jis9pqgas4mmj6epfi47tn5hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBXr4UA3kzywNvXdigCBM7jcTGxK992FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377602711595-3ej9hs2jis9pqgas4mmj6epfi47tn5hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
